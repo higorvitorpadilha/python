@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27df21e0-fbf2-4ba0-84e6-ff4566b043ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.venv/Crescente.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Estruturasimples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/media.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/operadores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/exfuncao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/mediavalores.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/entrada de dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/entradadedados.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/hello world.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/helloworld.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,15 +56,17 @@
     "Python.Estruturasimples.executor": "Run",
     "Python.Tipovariavel.executor": "Run",
     "Python.entrada de dados.executor": "Run",
+    "Python.exfuncao.executor": "Run",
     "Python.exibirvariavel.executor": "Debug",
     "Python.hello world.executor": "Run",
     "Python.media.executor": "Run",
+    "Python.mediavalores.executor": "Run",
     "Python.operadores.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Crescente">
+  <component name="RunManager" selected="Python.exfuncao">
     <configuration name="Crescente" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -113,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="entradadedados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exfuncao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\bethr\PycharmProjects\pythonProject\.venv\entradadedados.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/exfuncao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="operadores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mediavalores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,7 +168,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/operadores.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/mediavalores.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exfuncao" />
+        <item itemvalue="Python.mediavalores" />
         <item itemvalue="Python.Crescente" />
         <item itemvalue="Python.media" />
         <item itemvalue="Python.Estruturasimples" />
-        <item itemvalue="Python.operadores" />
-        <item itemvalue="Python.entradadedados" />
       </list>
     </recent_temporary>
   </component>
