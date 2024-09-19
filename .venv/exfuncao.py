@@ -24,6 +24,6 @@ def resultado(n1,n2):
   else:
     print("Reprovado")
 
-a = lernotas()
-b = lernotas()
-resultado(a,b)
+n1 = lernotas()
+n2 = lernotas()
+resultado(n1,n2)
