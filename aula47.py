@@ -3,7 +3,7 @@ import os
 lista = []
 
 while True:
-        print('Selecioneuma opção')
+        print('Selecione uma opção')
         opção= input('[i]nserir, [a]pagar, [l]istar: ').lower()
 
         if opção == 'i':
